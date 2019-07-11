@@ -1,0 +1,7 @@
+# Don't track content of these folders
+old/
+
+# Other
+*.csv
+*.txt
+*.json
